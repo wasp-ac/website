@@ -1,6 +1,6 @@
 # Worldwide Asset & Server Protection - Website
 
-- 📖 [Remix docs](https://remix.run/docs)
+This website you can easily use and connect different api's to it so it displays other information than it gets from the WASP V1.0 api.
 
 ## Development
 
